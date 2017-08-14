@@ -423,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72HDMA8PC9;
 				INFOPLIST_FILE = Cube_Core_motion/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cube.Cube-Core-motion";
@@ -436,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72HDMA8PC9;
 				INFOPLIST_FILE = Cube_Core_motion/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cube.Cube-Core-motion";
@@ -522,6 +524,7 @@
 				54DA4E651F3DE32900EF7B78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		54DA4E661F3DE32900EF7B78 /* Build configuration list for PBXNativeTarget "Cube_Core_motionTests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +533,7 @@
 				54DA4E681F3DE32900EF7B78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		54DA4E691F3DE32900EF7B78 /* Build configuration list for PBXNativeTarget "Cube_Core_motionUITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +542,7 @@
 				54DA4E6B1F3DE32900EF7B78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
